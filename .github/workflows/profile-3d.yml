@@ -20,5 +20,5 @@ jobs:
           git config user.name 3ayonara
           git config user.email ${{ secrets.EMAIL }}
           git add -A .
-          git commit -m "generated"
+          git commit -m "Generated Profile 3D"
           git push
